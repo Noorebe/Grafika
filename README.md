@@ -1,2 +1,2 @@
 # Grafika
-Program pozwalający na zmianę liczby kolorów (do 5 bit) różnymi technikami.
+Aplikacja dokonaje filtracji danych wejściowych (przystosowanie obrazka do alfabetu wejściowego z ewentualnym zastosowaniem ditheringu) i konwersji z pliku BMP do nowego rodzaju pliku graficznego oraz z nowego rodzaju pliku do formatu BMP. Użytkownik może wybrać jednego z kilku trybów koloru obrazka (paleta narzucona, odcienie szarości, paleta dedykowana) oraz czy obrazek ma zostać poddany ditheringowi.
